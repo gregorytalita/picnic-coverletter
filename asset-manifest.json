@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/picnic-coverletter/static/css/main.3bfb783b.chunk.css",
+    "main.js": "/picnic-coverletter/static/js/main.a5e207e9.chunk.js",
+    "main.js.map": "/picnic-coverletter/static/js/main.a5e207e9.chunk.js.map",
+    "runtime-main.js": "/picnic-coverletter/static/js/runtime-main.568162df.js",
+    "runtime-main.js.map": "/picnic-coverletter/static/js/runtime-main.568162df.js.map",
+    "static/js/2.bec1317c.chunk.js": "/picnic-coverletter/static/js/2.bec1317c.chunk.js",
+    "static/js/2.bec1317c.chunk.js.map": "/picnic-coverletter/static/js/2.bec1317c.chunk.js.map",
+    "index.html": "/picnic-coverletter/index.html",
+    "precache-manifest.9dfafa49b7e33638525ea93b183509ce.js": "/picnic-coverletter/precache-manifest.9dfafa49b7e33638525ea93b183509ce.js",
+    "service-worker.js": "/picnic-coverletter/service-worker.js",
+    "static/css/main.3bfb783b.chunk.css.map": "/picnic-coverletter/static/css/main.3bfb783b.chunk.css.map",
+    "static/js/2.bec1317c.chunk.js.LICENSE": "/picnic-coverletter/static/js/2.bec1317c.chunk.js.LICENSE",
+    "static/media/cloud.svg": "/picnic-coverletter/static/media/cloud.305b7b7b.svg",
+    "static/media/thinking.svg": "/picnic-coverletter/static/media/thinking.611e6828.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.568162df.js",
+    "static/js/2.bec1317c.chunk.js",
+    "static/css/main.3bfb783b.chunk.css",
+    "static/js/main.a5e207e9.chunk.js"
+  ]
+}
